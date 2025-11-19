@@ -39,7 +39,7 @@ Data is pulled from the **MrBeast YouTube channel**, but can be easily adapted t
 ## 🏗 Architecture & Workflow
 
 ### Architecture Diagram
-![ELT Pipeline Architecture](images/Wrokflow.png)
+![ELT Pipeline Architecture](images/WrokFlow.png)
 
 ### 1️⃣ Containerization
 - Uses **Docker & Docker Compose** for Airflow and PostgreSQL containers.
